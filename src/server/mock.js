@@ -1,0 +1,58 @@
+export const data = {
+    products: [
+    {
+        title: "Tourmaline & Eucalyptus Bar Soap",
+        description: "Recharge your skin with the super energizing power of finely crushed tourmaline powder blended with natural complexion",
+        price: 12.00,
+        info_url: "www.google.com",
+        image:"/images/tourmaline&Eucalyptus.png",
+        id:0,
+        qty:1,
+    },
+    {
+        title: "Tourmaline & Argan Oil Bar Soop",
+        description: "Recharge your skin with the super energizing power of finely crushed tourmaline powder blended with natural complexion",
+        price: 12.00,
+        info_url: "www.google.com",
+        image:"/images/tourmaline&ArganOil.png",
+        id:1,
+        qty:1,
+    },
+    {
+        title: "Tourmaline & Tea Tree Bar Soap",
+        description: "Recharge your skin with the super energizing power of finely crushed tourmaline powder blended with natural complexion",
+        price: 12.00,
+        info_url: "www.google.com",
+        image:"/images/CopiadeTourmaline&TeaTree.png",
+        id:2,
+        qty:1,
+    },
+    {
+        title: "Tourmaline Unscented Bar Soap",
+        description: "Recharge your skin with the super energizing power of finely crushed tourmaline powder blended with natural complexion",
+        price: 12.00,
+        info_url: "www.google.com",
+        image:"/images/CopiadeTourmalineUncented.png",
+        id:3,
+        qty:1,
+    },
+    {
+        title: "Tourmaline & Tea Tree Bar Socip",
+        description: "Recharge your skin with the super energizing power of finely crushed tourmaline powder blended with natural complexion",
+        price: 12.00,
+        info_url: "www.google.com",
+        image:"/images/Tourmaline&TeaTree.png",
+        id:4,
+        qty:1,
+    }, 
+    {
+        title: "Tourmaline Unscented Bar Soap",
+        description: "Recharge your skin with the super energizing power of finely crushed tourmaline powder blended with natural complexion",
+        price: 12.00,
+        info_url: "www.google.com",
+        image:"/images/TourmalineUncented.png",
+        id:5,
+        qty:1,
+    },
+    
+]}

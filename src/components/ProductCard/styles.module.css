@@ -1,0 +1,46 @@
+.container{
+    max-width: 300px;
+    margin: 10px;
+    outline: 3px solid;
+    outline-color: black;
+    min-width: 20%;
+    min-height: 400px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.button{
+    background-color: rgb(241, 104, 241);
+    margin-top: 50px;
+}
+
+.title{
+    background-color: transparent;
+    border: none;
+    outline: none;
+    overflow-wrap: break-word;
+    inline-size: max-content;
+    width: -webkit-fill-available;
+}
+
+.title:focus{
+    background-color: white;
+    width: 50px;
+    overflow-wrap: break-word;
+    inline-size: max-content;
+    width: -webkit-fill-available;
+}
+
+
+.learnMore{
+    margin-top: 25px;
+    align-items: center;
+
+}
+
+.prices{
+    margin-left: 50px;
+}
