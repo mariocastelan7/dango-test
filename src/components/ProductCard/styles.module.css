@@ -24,6 +24,8 @@
     overflow-wrap: break-word;
     inline-size: max-content;
     width: -webkit-fill-available;
+    margin: 20px 0;
+    
 }
 
 .title:focus{

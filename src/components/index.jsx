@@ -1,2 +1,2 @@
-import { ProductCard } from "./productCard";
+import { ProductCard } from "./ProductCard";
 export {ProductCard}

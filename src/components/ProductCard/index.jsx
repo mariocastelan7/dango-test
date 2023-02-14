@@ -28,8 +28,9 @@ export const ProductCard = ({product, setProducts, products, fontSize, id}) => {
     }
 
     let divStyle = {
-      color: 'blue',
+      color: 'black',
       fontSize: `${fontSize}px`,
+      fontWeight: "bold",
     };
 
 
